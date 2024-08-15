@@ -1,7 +1,7 @@
-[Whisky Sites 1.0]
-! Version: 1
+[Whisky Sites 2]
+! Version: 2
 ! Title: Whisky Sites Allowlist
-! Last modified: 15 Aug 2024 10:49 GMT
+! Last modified: 15 Aug 2024 16:49 GMT
 ! Expires: 7 days (update frequency)
 @@||masterofmalt.com$document
 @@||thewhiskyexchange.com$document
@@ -29,3 +29,6 @@
 @@||smws.com$document
 @@||whisky-me.com$document
 @@||laphroaig.com$document
+@@||smws.foleon.com$document
+@@||whiskypioneer.co.uk$document
+@@||pourandsip.com$document
