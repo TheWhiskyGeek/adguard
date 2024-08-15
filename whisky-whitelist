@@ -1,29 +1,31 @@
-! [Whisky Sites Allow List v1.0]
-! Title: Whisky AdGuard Whitelist
-! Expires: 3 days (update frequency)
-@@||*.masterofmalt.com^
-@@||*.thewhiskyexchange.com^
-@@||*.whiskyshop.com^
-@@||*.royalmilewhiskies.com^
-@@||*.whiskykingdom.com^
-@@||*.houseofmalt.co.uk^
-@@||*.thewhiskyworld.com^
-@@||*.thespiritsembassy.com^
-@@||*.fountainhallwines.co.uk^
-@@||*.luxuryandrarewhisky.co.uk^
-@@||*.tyndrumwhisky.com^
-@@||*.jpha.co.uk^
-@@||*.abbeywhisky.com^
-@@||*.nickollsandperks.com^
-@@||*.drambusters.com^
-@@||*.regalwhisky.com^
-@@||*.whiskyauctioneer.com^
-@@||*.speysidewhiskyauctions.co.uk^
-@@||*.just-whisky.co.uk^
-@@||*.whiskyhammer.com^
-@@||*.highlandwhiskyauctions.com^
-@@||*.prestigewhiskyauction.com^
-@@||*.whisky-onlineauctions.com^
-@@||*.smws.com^
-@@||*.whisky-me.com^
-@@||*.laphroaig.com^
+[Whisky Sites 1.0]
+! Version: 1
+! Title: WhiskySites
+! Last modified: 15 Aug 2024 10:49 GMT
+! Expires: 7 days (update frequency)
+@@||masterofmalt.com$document
+@@||thewhiskyexchange.com$document
+@@||whiskyshop.com$document
+@@||royalmilewhiskies.com$document
+@@||whiskykingdom.com$document
+@@||houseofmalt.co.uk$document
+@@||thewhiskyworld.com$document
+@@||thespiritsembassy.com$document
+@@||fountainhallwines.co.uk$document
+@@||luxuryandrarewhisky.co.uk$document
+@@||tyndrumwhisky.com$document
+@@||jpha.co.uk$document
+@@||abbeywhisky.com$document
+@@||nickollsandperks.com$document
+@@||drambusters.com$document
+@@||regalwhisky.com$document
+@@||whiskyauctioneer.com$document
+@@||speysidewhiskyauctions.co.uk$document
+@@||just-whisky.co.uk$document
+@@||whiskyhammer.com$document
+@@||highlandwhiskyauctions.com$document
+@@||prestigewhiskyauction.com$document
+@@||whisky-onlineauctions.com$document
+@@||smws.com$document
+@@||whisky-me.com$document
+@@||laphroaig.com$document
