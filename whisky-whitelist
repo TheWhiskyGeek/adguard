@@ -1,7 +1,7 @@
 [Whisky Sites]
-! Version: 8
+! Version: 9
 ! Title: Whisky Sites Allowlist
-! Last modified: 01 Sep 2024 08:28 GMT
+! Last modified: 05 Sep 2024 11:23 GMT
 ! Expires: 7 days (update frequency)
 @@||masterofmalt.com$document
 @@||thewhiskyexchange.com$document
@@ -66,3 +66,5 @@
 @@||wovenwhisky.com$document
 @@||glencairn.co.uk$document
 @@||whiskyshow.com$document
+@@||ardnahoedistillery.com$document
+@@||thedalmore.com$document
